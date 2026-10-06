@@ -1,0 +1,21 @@
+Radius_m,Representation,Model,MacroF1_mean,MacroF1_std
+500,Combined,Random Forest,0.33,0.073
+1000,Combined,Random Forest,0.293,0.164
+1500,Combined,Random Forest,0.264,0.152
+2000,Combined,Random Forest,0.267,0.16
+3000,Combined,Random Forest,0.463,0.281
+500,Combined,XGBoost,0.298,0.094
+1000,Combined,XGBoost,0.409,0.065
+1500,Combined,XGBoost,0.267,0.157
+2000,Combined,XGBoost,0.295,0.162
+3000,Combined,XGBoost,0.286,0.168
+500,Relative,Random Forest,0.362,0.113
+1000,Relative,Random Forest,0.292,0.186
+1500,Relative,Random Forest,0.27,0.173
+2000,Relative,Random Forest,0.302,0.191
+3000,Relative,Random Forest,0.291,0.181
+500,Relative,XGBoost,0.362,0.128
+1000,Relative,XGBoost,0.375,0.063
+1500,Relative,XGBoost,0.294,0.161
+2000,Relative,XGBoost,0.372,0.187
+3000,Relative,XGBoost,0.335,0.173
